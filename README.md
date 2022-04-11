@@ -1,7 +1,7 @@
 # mygit
 牧原股份股评爬虫
 第一步 :scrapy startproject 项目名
-第二步：在spider文件夹 scrapy genspider py文件名
+第二步：在spider文件夹 scrapy genspider py文件名 域名
 第三步：主py文件
 第四步：pipline解析
 tips:setting要放开注释
